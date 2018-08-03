@@ -1,0 +1,3 @@
+rootProject.name = 'forkedRNApp'
+
+include ':app'
